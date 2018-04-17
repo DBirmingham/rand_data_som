@@ -8,7 +8,7 @@ Clone this repo to your computer and ensure you install the faker gem.
 ```
 gem install faker
 ```
-I recommend looking through the (faker readme)[https://github.com/stympy/faker] if you'd like to change the behaviour of this data generator. I appreciate that eldritch deities may not be suitable for most demonstrations.
+I recommend looking through the [faker readme](https://github.com/stympy/faker) if you'd like to change the behaviour of this data generator. I appreciate that eldritch deities may not be suitable for most demonstrations.
 
 ### Prerequisites
 
